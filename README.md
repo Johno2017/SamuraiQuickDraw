@@ -1,0 +1,1 @@
+Using custom pixel art sprites in the style of an original GameBoy, this game is a reflex-based quick draw minigame where the goal is for the user to strike before their opponent once the signal is given. Strike before the signal and the match is lost.
